@@ -6,4 +6,5 @@
 * [https://harvard-iacs.github.io/2018-CS109A/](https://harvard-iacs.github.io/2018-CS109A/)
 * [https://harvard-iacs.github.io/2018-CS109B/](https://harvard-iacs.github.io/2018-CS109B/)
 * [https://www.cs.washington.edu/education/courses](https://www.cs.washington.edu/education/courses)
+* [https://www.ics.uci.edu/~sjavanma/IR/Assignments/](https://www.ics.uci.edu/~sjavanma/IR/Assignments/)
 <br/><br/>
